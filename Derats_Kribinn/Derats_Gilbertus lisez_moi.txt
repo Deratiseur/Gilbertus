@@ -1,0 +1,10 @@
+Gilbertus Agumanus est un gnome bricoleur que vous pouvez trouver sur la promenade de Waukyne, accompagné de deux araignées semi-mécaniques. La noire est sa garde du corp, et la grise est à vendre, et si vous l’achetez c'est là que tout commence :
+- L’araignée semi-mécanique peut vous suivre partout, comme un 7ème compagnon.
+- Ces statistiques sont celles d'un monstre de 10 DV, CA 4, résistance au feu 50%, vulnérabilité à l’électricité 25%, vulnérabilité à la magie 25%, immunisée aux armes non-magiques, immunisée au poison, à la maladie, au drain de niveau, aux effets de morts et aux effets mentaux.
+- Elles peut attaquer 2 fois par round pour 1D8 dégâts tranchants par coup. Ces pattes ne sont pas magiques.
+- Elle régénère de 1 point de vie par tour.
+- Elle est invulnérable : si elle passe en dessous de 3 points de vie elle passe en mode "repos" pendant lequel elle montre un dos rouge, est ignorée par l'IA, inactive, non-ciblable et régénère plus vite pendant 6 rounds. Elle redémarre automatiquement au bout de 6 rounds avec 5 points de vie. 
+- Chaque fois qu'elle subit des dégâts d’électricité elle doit tenter jet de sauvegarde contre la mort à +2. Si elle le rate elle est détruite dans une explosion qui inflige 10D6 points de dégâts de feu (jds pour 1/2) sur 10 mètres (les inventions des gnomes bricoleurs finissent souvent par causer leur mort^^).
+- Elle intègre un compartiment dans lequel vous pouvez verser n'importe quelle potion du jeu (ou des mods L'Interplan et Jan's Alchemy) qui fera effet sur l’araignée. Le compartiment est alors verrouillé (vous ne pouvez plus rien y verser) pour la moitié de la durée normale de la potion. Et oui, vous pouvez cumuler plusieurs potions si vous jouez avec les durées.
+- Certaines potions ne verrouillent pas le compartiment : Potions de soins (de toutes les formes), Potion d'invisibilité, Potion de désenchantement.
+- Certaines potions ne sont pas proposées car inutiles : Potion contre poison/maladies/agressions mentales, potions boostant la sagesse ou l'intelligence, potions améliorant les compétences de voleurs ou de magicien, etc...

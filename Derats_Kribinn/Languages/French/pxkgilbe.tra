@@ -1,0 +1,77 @@
+@501 = ~Bonjour <LADYLORD>. Je me présente : Gilbertus Agumanus, savant bricoleur, et j'ai une offre UNIQUE à vous faire : voyez-vous la belle araignée semi-mécanique à mes côtés *il désigne l’araignée en acier* ? Ce serait un superbe renfort pour votre groupe : elle résiste à tout, est virtuellement invulnérable, vous suivra partout et saura sans faillir réduire tous vos ennemis en charpie.~
+@502 = ~D'accord, combien coûte-elle ?~ // 508
+@503 = ~Semi-mécanique, rien que ça… Et d'où viennent les super pouvoirs de ce… machin ?~ // 526
+@504 = ~Non merci, je n'ai pas besoin d'un chien de garde mécanique.~ // EXIT 
+
+@505 = ~Cet engin me rappelle une construction de mon grand-oncle Hildebrand Jansen. Lors d'un voyage à travers les forêts du Téthyr il était tombé sur une fourmilière géante et il leur avait d'ailleurs échappé de justesse car il grimpait très bien aux arbres, mais en rentrant chez lui il a eu l'idée de fabriquer une fourmi géante mécanique qui ressemble un peu à l'araignée de ce monsieur, en mieux évidemment. Les problèmes ont commencé quand il a voulu en fabriquer plusieurs comme escorte et qu'elles ont commencé à s'attaquer entre elles. Il était à deux doigts de trouver la solution et avait déjà reçu une offre généreuse du capitaine de la garde du connétable, mais c'est là qu'il s'est trouvé injustement mêlé à un trafic de navets géants et a préféré fuir la région. Après il a complètement changé de voie et s'est retrouvé à Calimport mais euh… D'accord d'accord je vous raconterai la suite une autre fois.~
+
+@506 = ~Je n'ai guère confiance en ce genre de "machine", <CHARNAME>. Elle s'éloigne tellement des enseignements de la Nature, je ne sais vraiment pas ce qu'elle pourrait nous apporter de bon. Mais fais comme tu veux, je respecterai ton choix.~
+
+@507 = ~Bah. Les véritables araignées géantes de l'Ombreterre sont certainement bien plus redoutables que cet... ersatz. Mais si tu es assez stupide pour jeter ton or par les fenêtres, achète donc l'araignée de ce yingil.~
+
+@508 = ~80000 pièces d'or. Que cela ne vous rebute pas, je vous garantis qu'elle en vaut l'investissement. Ai-je oublié de préciser que je l'ai rendue sensible à la magie pour que vos sorts puisse l'affecter ? Et en plus je l'ai dotée d'un compartiment à potions, dans lequel vous pouvez verser toutes les potions que vous voudrez : elles lui transmettront leur pouvoir magique !~ // 509 510 511 512
+@509 = ~Je vois. D'accord, je la prends.~ // DEAL 532
+@510 = ~C'est quand même une sacrée somme. Cela m'intéresse, mais il faudrait un petit rabais. Que diriez-vous de 70000 ?~ // 513 514
+@511 = ~Pas mal, mais trop cher pour ce que c'est. Je vous la prends à 60000, pas plus.~ // 517 518 
+@512 = ~80000 ?! C'est trop cher pour un bricolage d'amateur. Non merci, trouvez un pigeon, il y en a plein les rues ici.~//EXIT
+
+@513 = ~Bon... D'accord. Mais vous faites une sacrée bonne affaire.~ // DEAL 532
+@514 = ~Ah non <LADYLORD>, 80000 est déjà un prix d'ami pour cette fantastique construction. 80000, vous ne le regretterez pas.~ // 515 516
+@515 = ~Bon... D'accord.~ // DEAL
+@516 = ~Bon... Je crois que cela ne va pas être possible. Trouvez un autre acheteur.~~Bon... Je crois que cela ne va pas être possible. Trouvez une autre acheteuse.~ // EXIT
+
+@517 = ~Bon... D'accord. Je ne sais même pas pourquoi je vous la cède à ce prix. Vous faites l'affaire du siècle, je vous le garantis.~ // DEAL 532
+@518 = ~Ah non <LADYLORD>, 80000 est déjà un prix d'ami pour cette fantastique construction. 80000, vous ne le regretterez pas.~ // 519 520 521 522
+@519 = ~Bon... D'accord.~ // DEAL 532
+@520 = ~OK elle m'intéresse, mais un petit effort quand même ! 75000 et on fait affaire ?~ // 523 524
+@521 = ~Pffff… Je veux bien monter à 65000, mais pas plus. Je ne sais même pas si ce truc fonctionne, d'ailleurs...~ // 525
+@522 = ~Je regrette, je ne peux pas mettre une telle somme dans cet engin. Au revoir.~ // EXIT
+@523 = ~Bon... D'accord. Je suppose que cela reste un bon deal.~ // DEAL 532
+@524 =  ~Ah non <LADYLORD>, je suis certain de trouver un client qui saura reconnaître et accepter cette offre exceptionnelle. Au revoir.~ //EXIT
+@525 = ~Pourquoi discutons-nous encore si vous avez si peu confiance en ma machine ? Je saurai trouver dans cette ville un acheteur vraiment intéressé. Au revoir.~ //EXIT
+
+
+@526 = ~En fait elle n'est pas 100% mécanique. Une véritable construction mécanique résisterait à la magie : l'astuce c'est que j'ai rendu celle-ci sensible à la magie pour qu'elle puisse bénéficier des sorts que vous pourriez lancer dessus. Et aussi pour quelle puisse consommer des potions, grâce à l'astucieux compartiment à potions dont je l'ai dotée. Alors, pour le modeste prix de 80000 pièces d'or, la voulez-vous ?~ // 509 527 528 529
+@527 = ~Tout cela a l'air très impressionnant... Mais elle est un peu trop chère pour mes finances. Écoutez, que diriez-vous d'un petit rabais ? Je veux bien payer 70000 pièces d'or.~ // 513 514
+@528 = ~Mouais... Ses pattes n'ont pas l'air plus tranchantes qu'une bonne épée, et j'ai bien peur qu'elle ne résiste pas aux combats que je devrai mener un jour ou l'autre contre mes redoutables ennemis. Je l'estime à 55000 pièces d'or, voici ma proposition.~ // 530 531 
+@529 = ~80000 pièces d'or ? Modeste ? Vous avez une drôle de conception du terme "modeste". Non merci.~ // EXIT
+@530 = ~Bon... D'accord. Je ne sais même pas pourquoi je vous la cède à ce prix. Vous faites l'affaire du siècle, je vous le garantis.~ // DEAL
+@531 = ~Comment ?? Votre proposition est presque insultante ! Je ne veux même pas en discuter, je trouverai un client qui saura apprécier ma création. Au revoir.~ // EXIT
+
+//DEAL
+@532 = ~Très bien. Écoutez bien ces mots de commande, et répétez-les devant l'araignée : elle se mettra alors à votre service. *il vous énonce une suite de mots sans lien mais faciles à retenir*.~ // 533 534
+@533 = ~D'accord, merci.~ // 561 FIN
+@534 = ~Au fait, dites-moi, quelle est cette autre araignée noire derrière vous ?~ // 535
+@535 = ~Ah, celle-là ? Oh, euh... celle-ci est ma garde du corps, en quelque sorte. Il vaut mieux être prudent, j'ai entendu dire que certains quartiers sont plutôt mal famés. Et puis les guildes de voleurs sont actives ici, vous voyez ce que je veux dire...~ // 536 537 538
+@536 = ~Vous avez bien raison, cette ville n'est pas sûre. Au revoir.~ // EXIT
+@537 = ~Mais cette araignée noire a l'air bien mieux finie que l'autre, vous ne la vendriez pas par hasard ?~ // 539 
+@538 = ~Elle est faite d'obsidienne, on dirait. J'ai entendu dire que l'obsidienne est un excellent réceptacle d'enchantements magiques. Dites-moi en plus...~ // 551
+
+@539 = ~Ah euh... non, c'est simplement que j'ai construit celle d'acier en premier, et puis il faut bien que j'en garde une pour me protéger. Vous m'excuserez, mais maintenant je dois y aller.~ // 540 541 542 543
+@540 = ~Attendez, je vous la prends à 100000 pièces d'or !~ // 544
+@541 = ~Attendez, je vous la prends à 200000 pièces d'or !~ // 545 546
+@542 = ~Attendez, je vous la prends à 300000 pièces d'or !~ // 549 550
+@543 = ~Attendez, je vous la prends à 400000 pièces d'or !~ // 559
+@544 = ~HA HA HA, vous voulez rire ?! Elle m'a coûté plus cher que cela rien qu'en matériaux et enchantements ! Je n'ai pas le temps pour ce genre de blagues, au revoir !~ FIN
+@545 = ~Non, elle m'a coûté très cher à fabriquer et à mettre au point, et comme je vous l'ai dit j'en ai besoin pour me protéger. Au revoir.~ //FIN 
+@546 = ~Non, elle m'a coûté très cher à fabriquer et je ne pourrais la vendre à ce prix-là...~ // 547 548
+@547 = ~Je comprends, je suis prêt à mettre 300000 pièces d'or.~~Je comprends, je suis prête à mettre 300000 pièces d'or.~ // 549 550
+@548 = ~Elle a l'air tellement puissante... Je vous l'achète 400000 pièces d'or.~ // 559
+@549 = ~C'est une belle offre mais... non, j'en ai vraiment besoin. Désolé, il faut vraiment que j'y aille. Au revoir et bon voyage !~ //FIN
+@550 = ~Vous m'avez convaincu... J'accepte de vous la céder à ce prix, mais c'est bien parce que c'est vous. Elle vous protégera sans faille, je vous le garantis !~ // 560
+
+@551 = ~Oh, vous vous y connaissez en arts alchimiques et arcanes ?~ // 552
+@552 = ~Un petit peu, j'ai passé mon enfance dans une immense bibliothèque après tout. Je sais que l'obsidienne permet d'éviter les dégâts qu'un "coup de foudre" -si vous me pardonnez cette expression- pourrait provoquer à une araignée de métal. Je sais également que l'obsidienne, pierre volcanique, résistera totalement au feu. De plus, les pattes de cette araignée sont incontestablement plus tranchantes que celles de l'autre.~// 553
+@553 = ~Vous vous y connaissez plus que ce que j'aurais imaginé en vous voyant. Vous avez raison, et qui plus est sa régénération des dégâts est meilleure que celle de l'araignée d'acier. La pure cristallinité de l'obsidienne lui permet également une meilleure vision, non troublée par d'éventuels sortilèges. Oui, un net progrès par rapport à l'autre, je dois dire.~ // 554 555
+@554 = ~Et j'aurais bien besoin d'un tel garde du corps, vu les adversaires redoutables qui se trouvent sur ma route. Je vous l'achète 300000 pièces d'or.~ // 549 550
+@555 = ~Formidable ! Mais l'inconvénient de cette machine est qu'elle va faire des envieux. D'autres gens plus connaisseurs et moins honnêtes que moi risquent de la repérer très vite, et il y en a peut-être déjà tout près d'ici... Je vous la prends 250000 pièces d'or là, tout de suite. Mais ne tergiversez pas, je dois partir rapidement.~ // 556 557
+@556 = ~Non, c'est vraiment trop peu, je préfère prendre le risque, j'ai toute confiance en cette araignée pour me défendre. Bonne route !~ //FIN
+@557 = ~Si peu... Mais peut-être avez-vous raison, certaines personnes que l'on croise ici ont l'air si... inquiétantes. Et puis avec cette somme je devrais pouvoir arriver à en construire une autre. D'accord, vous m'avez convaincu, l'affaire est faite.~ // 558
+@558 = ~Vous m'en voyez ravi !~ ~Vous m'en voyez ravie !~ // 560
+
+//DEAL2 REUSSI
+@559 = ~A ce prix-là... je ne peux que m'incliner, c'est suffisant pour louer toute une troupe de mercenaires à l'année et fabriquer une nouvelle araignée d'obsidienne. L'affaire est faite !~ // 560 
+@560 = ~*Gilbertus Agumanus vous enseigne alors une nouvelle série de mots de commande, que vous mémorisez avec soin. Il prend ensuite congé, et disparaît rapidement au coin d'une rue.*~ // 533
+@561 = ~Bon, tant-pis. Adieu.~
+@562 = ~Bonjour <LADYLORD>. Ho... Au suivant !~
+@563 = ~Attendez ! Je reviens avec 80000 pièces d'or. Je désire acheter votre araignée semi-mécanique.~
