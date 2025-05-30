@@ -8,3 +8,5 @@ Gilbertus Agumanus is a tinker gnome you can find on the Waukyne promenade, acco
 - It incorporates a compartment into which you can pour any potion from the game (or from the L'Interplan and Jan's Alchemy mods) that will have an effect on the spider. The compartment is then locked (you can't pour anything else into it) for half the potion's normal duration. And yes, you can cumulate several potions if you play with the durations.
 - Some potions do not lock the compartment: Healing potions (all forms), Invisibility potion, Disenchantment potion.
 - Some potions are not offered because they are useless: Potion against poison/disease/mental aggression, potions boosting wisdom or intelligence, potions improving thieves' or magicians' skills, etc...
+
+Many thanks to Le marquis, without whom this mod would be less substantial (he wrote all the Gilbertus dialogue).
