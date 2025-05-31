@@ -13,7 +13,7 @@
 -------------
 
 Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or.
-Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, peut être pourrez vous acheter "plus".
+Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter "plus".
 __________________
 
 Gilbertus sells a half-mechanical spider that will follow you like a 7th companion. Expect a lot of gold coins.
