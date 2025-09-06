@@ -1,4 +1,4 @@
-Gilbertus Agumanus is a tinker gnome you can find on the Waukyne promenade, accompanied by two semi-mechanical spiders. The black one is his bodyguard, and the gray one is for sale, and if you buy it, that's where it all begins:
+Gilbertus Agumanus is a tinker gnome you can find on the Waukyne promenade or at kuldahar, accompanied by two semi-mechanical spiders. The black one is his bodyguard, and the gray one is for sale, and if you buy it, that's where it all begins:
 - The semi-mechanical spider can follow you everywhere, like a 7th companion.
 - Its stats are those of a 10 DV monster, CA 4, fire resistance 50%, electricity vulnerability 25%, magic vulnerability 25%, immune to non-magical weapons, immune to poison, disease, level drain, death effects and mental effects.
 - It can attacks 2 times per round for 1D8 slashing damage per blow. These paws are not magic.
@@ -10,3 +10,9 @@ Gilbertus Agumanus is a tinker gnome you can find on the Waukyne promenade, acco
 - Some potions are not offered because they are useless: Potion against poison/disease/mental aggression, potions boosting wisdom or intelligence, potions improving thieves' or magicians' skills, etc...
 
 Many thanks to Le marquis, without whom this mod would be less substantial (he wrote all the Gilbertus dialogue).
+
+
+
+
+Version history:
+V2: Added support for IWDEE.

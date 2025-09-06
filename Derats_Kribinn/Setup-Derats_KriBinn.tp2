@@ -1,6 +1,6 @@
 BACKUP ~Derats_KriBinn/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v1~
+VERSION ~2~
 
 AUTO_TRA ~Derats_KriBinn/Languages/%s~
 
@@ -11,10 +11,20 @@ LANGUAGE ~English~	~English~
 	~Derats_KriBinn/Languages/English/Setup.tra~
 	
 BEGIN @0	DESIGNATED 0
+REQUIRE_PREDICATE GAME_IS ~BG2EE EET IWDEE~ @0009
 INCLUDE ~Derats_KriBinn/Divers/Codes.tpa~ 
 COMPILE ~Derats_KriBinn/D~
 COMPILE ~Derats_KriBinn/Scripts~
+
+ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
 EXTEND_TOP ~AR0700.BCS~	~Derats_KriBinn/Divers/pxk0700.baf~
+COPY_EXISTING	~S1-10M4.itm~				~override/pxkroban.itm~	WRITE_BYTE 0x60 1	WRITE_ASCII 0x3a ~~ #8	WRITE_ASCII 0x76 ~~ #8
+END
+ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
+EXTEND_TOP ~AR2100.BCS~	~Derats_KriBinn/Divers/pxk2100.baf~
+COPY_EXISTING	~S1-10M2.itm~				~override/pxkroban.itm~	WRITE_BYTE 0x60 1	WRITE_ASCII 0x3a ~~ #8	WRITE_ASCII 0x76 ~~ #8
+END
+
 COPY ~Derats_KriBinn/Copy~					~override~
 
 LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
@@ -32,7 +42,7 @@ COPY ~Derats_KriBinn/Divers/pxkribin.cre~ ~override~	SAY NAME1 @1	SAY NAME2 @1	W
 COPY ~Derats_KriBinn/Divers/pxkrotan.cre~ ~override~	SAY NAME1 @2	SAY NAME2 @2	WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~Mechanical_Spider_Green~))
 COPY ~Derats_KriBinn/Divers/pxkgilbe.cre~ ~override~	SAY NAME1 @3	SAY NAME2 @3
 
-COPY_EXISTING	~S1-10M4.itm~				~override/pxkroban.itm~	WRITE_BYTE 0x60 1	WRITE_ASCII 0x3a ~~ #8	WRITE_ASCII 0x76 ~~ #8
+
 COPY_EXISTING	~sparm2.vvc~				~override/pxkribiv.vvc~	WRITE_ASCII 0x8 ~pxkribi1~ #8
 COPY_EXISTING	~sparm2.vvc~				~override/pxkrib2v.vvc~	WRITE_ASCII 0x8 ~pxkribi2~ #8
 COPY_EXISTING	~pxkribi0.eff~				~override/pxkribi4.eff~	WRITE_ASCII 0x30 ~pxkribi4~ #8
