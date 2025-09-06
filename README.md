@@ -12,7 +12,7 @@
 ## Description:
 -------------
 
-Sur la Promenade de Waukine où à Kuldahar, Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or.
+Sur la Promenade de Waukine ou à Kuldahar, Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or.
 Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter "plus".
 __________________
 
