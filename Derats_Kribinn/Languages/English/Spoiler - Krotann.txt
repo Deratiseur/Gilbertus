@@ -1,0 +1,9 @@
+Kro-tann is a semi-golem spider that you can obtain if you go to Gilbertus with at least 200,000 gold coins and are a skilled negotiator.
+
+- These stats are for a monster with 13 HP, AC 0, 100% fire resistance, 25% magic vulnerability, +2 movement, immunity to non-magical and magical weapons +1, immunity to poison, disease, level drain, death effects, and mental effects.
+- It can attack 3 times per round for 1D10 slashing damage per hit. Its claws are magical +1.
+- It regenerates 1 hit point every 6 rounds.
+- It can cast True Sight 3 times per day.
+- It is invulnerable: if it falls below 3 hit points, it goes into “rest” mode, during which it shows a red back, is ignored by the AI, is inactive, cannot be targeted, and regenerates faster for 6 rounds. It automatically restarts after 6 rounds with 10 hit points.
+- It has no problem with electricity.
+- She has the same potion compartment.
