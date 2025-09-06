@@ -12,9 +12,9 @@
 ## Description:
 -------------
 
-Sur la Promenade de Waukine, Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or.
+Sur la Promenade de Waukine où à Kuldahar, Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or.
 Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter "plus".
 __________________
 
-On the Waukeen's promenade, Gilbertus sells a half-mechanical spider that will follow you like a 7th companion. Expect a lot of gold coins.
+On the Waukeen's promenade or at Kuldahar, Gilbertus sells a half-mechanical spider that will follow you like a 7th companion. Expect a lot of gold coins.
 If you expect very many gold coins, and if you're persuasive, you may be able to buy "more".
