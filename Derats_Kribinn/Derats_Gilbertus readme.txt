@@ -16,3 +16,5 @@ Many thanks to Le marquis, without whom this mod would be less substantial (he w
 
 Version history:
 V2: Added support for IWDEE.
+V2.1: A file for IWDEE was missing on GitHub. (not on Mediafire)
+       Now it is possible to query for the black spider even if you don't have 100K pos.

@@ -15,3 +15,5 @@ Un grand merci au Marquis, sans qui ce mod serait moins fourni (il a écrit tous
 
 Historique des versions : 
 V2 : ajout du support pour IWDEE.
+V2.1 : Il manquait un fichir pour IWDEE sur Github. (pas sur Mediafire)
+	   Maintenant il est possible de demander pour l'araignée noire même si on a pas 100K pos.
