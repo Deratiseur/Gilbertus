@@ -114,7 +114,7 @@ END
 
 IF ~~ THEN deal1	SAY @532
 	IF ~~ THEN REPLY @533 DO ~SetGlobal("pxkribinn","GLOBAL",1) SetGlobal("pxkgilber","GLOBAL",1) EscapeArea()~ EXIT
-	IF ~GlobalLT("pxkgilber","GLOBAL",2) PartyGoldGT(999999)~ THEN REPLY @534 DO ~SetGlobal("pxkribinn","GLOBAL",1)~ GOTO krotann
+	IF ~GlobalLT("pxkgilber","GLOBAL",2)~ THEN REPLY @534 DO ~SetGlobal("pxkribinn","GLOBAL",1)~ GOTO krotann
 END
 
 IF ~~ THEN krotann	SAY @535
@@ -124,6 +124,7 @@ IF ~~ THEN krotann	SAY @535
 END
 
 IF ~~ THEN nego21	SAY @539
+	IF ~PartyGoldLT(1000000)~ THEN REPLY @564 DO ~SetGlobal("pxkgilber","GLOBAL",1) EscapeArea()~ EXIT
 	IF ~PartyGoldGT(999999)~ THEN REPLY @540 GOTO nook21
 	IF ~PartyGoldGT(199999) CheckStatGT(LastTalkedToBy,14,CHR)~ THEN REPLY @541 GOTO nego22
 	IF ~PartyGoldGT(199999) CheckStatLT(LastTalkedToBy,15,CHR)~ THEN REPLY @541 GOTO nook22
