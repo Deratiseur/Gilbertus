@@ -1,9 +1,10 @@
-Kro-tann est une araignée semi-golem que vous pouvez obtenir si vous vous présentez devant Gilbertus avec au moins 200000 pièces d'or et que vous êtes un fin négociateur.
+Kro-tann est une araignée semi-golem que vous pouvez obtenir si vous vous présentez devant Gilbertus avec au moins 100000 pièces d'or et que vous êtes un fin négociateur.
 
 - Ces statistiques sont celles d'un monstre de 13 DV, CA 0, résistance au feu 100%, vulnérabilité à la magie 25%, mouvement +2, immunisée aux armes non-magiques et magiques +1, immunisée au poison, à la maladie, au drain de niveau, aux effets de morts et aux effets mentaux.
 - Elles peut attaquer 3 fois par round pour 1D10 dégâts tranchants par coup. Ces pattes sont magiques +1.
 - Elle régénère de 1 point de vie tous les 6 rounds.
 - Elle peut lancer Vision véritable 3x par jour.
-- Elle est invulnérable : si elle passe en dessous de 3 points de vie elle passe en mode "repos" pendant lequel elle montre un dos rouge, est ignorée par l'IA, inactive, non-ciblable et régénère plus vite pendant 6 rounds. Elle redémarre automatiquement au bout de 6 rounds avec 10 points de vie. 
+- Elle est invulnérable : si elle passe en dessous de 3 points de vie elle passe en mode "repos" pendant lequel elle montre un dos rouge, est ignorée par l'IA, inactive, non-ciblable et régénère plus vite pendant 6 rounds. Elle redémarre automatiquement au bout de 6 rounds avec 50% de ses points de vie maximum.
 - Elle n'a aucun problème avec l’électricité.
 - Elle a le même compartiment à potions.
+- Elle se déplace plus vite.

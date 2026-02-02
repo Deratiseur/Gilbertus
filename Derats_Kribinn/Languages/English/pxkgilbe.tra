@@ -9,32 +9,32 @@
 
 @507 = ~Bah. The real giant spiders of the Underdark are certainly far more formidable than this... ersatz. But if you're stupid enough to throw your gold away, buy the spider from this yingil.~
 
-@508 = ~80,000 gold coins. Don't let that put you off, I guarantee she's well worth the investment. Did I forget to mention that I've made her magic-sensitive, so your spells can affect her? And what's more, I've fitted it with a potion compartment, into which you can pour any potions you like: they'll transmit their magical power to it!~ // 509 510 511 512
+@508 = ~40,000 gold coins. Don't let that put you off, I guarantee she's well worth the investment. Did I forget to mention that I've made her magic-sensitive, so your spells can affect her? And what's more, I've fitted it with a potion compartment, into which you can pour any potions you like: they'll transmit their magical power to it!~ // 509 510 511 512
 @509 = ~I see. Okay, I'll take it.~ // DEAL 532
-@510 = ~That's a lot of money. I'm interested, but I'd need a small discount. How about 70,000?~ // 513 514
-@511 = ~Not bad, but too expensive for what it is. I'll take it at 60,000, no more.~ // 517 518 
-@512 = ~80000 ?! It's too expensive for an amateur DIY. No thanks, find a pigeon, there are plenty here.~//EXIT
+@510 = ~That's a lot of money. I'm interested, but I'd need a small discount. How about 30,000?~ // 513 514
+@511 = ~Not bad, but too expensive for what it is. I'll take it at 20,000, no more.~ // 517 518 
+@512 = ~40,000 ?! It's too expensive for an amateur DIY. No thanks, find a pigeon, there are plenty here.~//EXIT
 
 @513 = ~Well... All right, then. But you're getting a hell of a bargain.~ // DEAL 532
-@514 = ~Ah no <LADYLORD>, 80000 is already a bargain price for this fantastic construction. 80000, you won't regret it.~ // 515 516
+@514 = ~Ah no <LADYLORD>, 40,000 is already a bargain price for this fantastic construction. 40,000, you won't regret it.~ // 515 516
 @515 = ~Well... All right, then.~ // DEAL
 @516 = ~Well... I don't think that's going to be possible. Find another buyer.~ // EXIT
 
 @517 = ~Well... All right, then. I don't even know why I'm giving it to you at this price. You're getting the deal of the century, I guarantee it.~ // DEAL 532
-@518 = ~Ah no <LADYLORD>, 80000 is already a bargain price for this fantastic construction. 80000, you won't regret it.~ // 519 520 521 522
+@518 = ~Ah no <LADYLORD>, 40,000 is already a bargain price for this fantastic construction. 40,000, you won't regret it.~ // 519 520 521 522
 @519 = ~Well... All right, then.~ // DEAL 532
-@520 = ~OK, I'm interested, but a little effort anyway! 75,000 and we're in business?~ // 523 524
-@521 = ~Pffff... I don't mind going up to 65,000, but no more. I don't even know if this thing works, by the way...~ // 525
+@520 = ~OK, I'm interested, but a little effort anyway! 35,000 and we're in business?~ // 523 524
+@521 = ~Pffff... I don't mind going up to 25,000, but no more. I don't even know if this thing works, by the way...~ // 525
 @522 = ~I'm sorry, I can't put such a large sum of money into this machine. Goodbye.~ // EXIT
 @523 = ~Well... All right, then. I guess it's still a good deal.~ // DEAL 532
 @524 =  ~Ah no <LADYLORD>, I'm sure I'll find a customer who will recognize and accept this exceptional offer. Good-bye.~ //EXIT
 @525 = ~Why are we still talking if you have so little faith in my machine? I'm sure I can find a buyer in this town who is genuinely interested. Good-bye.~ //EXIT
 
 
-@526 = ~In fact, it's not 100% mechanical. A true mechanical construction would resist magic: the trick is that I've made it magic-sensitive, so that it can benefit from any spells you might cast on it. And also so that it can consume potions, thanks to the clever potion compartment I've equipped it with. So, for the modest price of 80,000 gold coins, do you want it?~ // 509 527 528 529
-@527 = ~It all looks very impressive... But it's a little too expensive for my finances. Listen, how about a little discount? I'm willing to pay 70,000 gold coins.~ // 513 514
-@528 = ~Well... Its paws don't look any sharper than a good sword, and I'm afraid it won't stand up to the battles I'll have to wage one day against my formidable enemies. I value it at 55,000 gold pieces, so here's my proposal.~ // 530 531 
-@529 = ~80,000 gold coins? Modest? You have a strange conception of the word "modest". I'm afraid I can't.~ // EXIT
+@526 = ~In fact, it's not 100% mechanical. A true mechanical construction would resist magic: the trick is that I've made it magic-sensitive, so that it can benefit from any spells you might cast on it. And also so that it can consume potions, thanks to the clever potion compartment I've equipped it with. So, for the modest price of 40,000 gold coins, do you want it?~ // 509 527 528 529
+@527 = ~It all looks very impressive... But it's a little too expensive for my finances. Listen, how about a little discount? I'm willing to pay 30,000 gold coins.~ // 513 514
+@528 = ~Well... Its paws don't look any sharper than a good sword, and I'm afraid it won't stand up to the battles I'll have to wage one day against my formidable enemies. I value it at 17,000 gold pieces, so here's my proposal.~ // 530 531 
+@529 = ~40,000 gold coins? Modest? You have a strange conception of the word "modest". I'm afraid I can't.~ // EXIT
 @530 = ~Well... All right, then. I don't even know why I'm giving it to you at this price. You're getting the deal of the century, I guarantee it.~ // DEAL
 @531 = ~How? Your proposal is almost insulting! I don't even want to discuss it, I'll find a customer who appreciates my creation. Good-bye.~ // EXIT
 
@@ -48,23 +48,23 @@
 @538 = ~It's made of obsidian, it seems. I've heard that obsidian is an excellent receptacle for magical enchantments. Tell me more...~ // 551
 
 @539 = ~Ah uh... no, it's just that I built the steel one first, and then I had to keep one for protection. Now, if you'll excuse me, I've got to go.~ // 540 541 542 543
-@540 = ~Wait, I'll take it for 100,000 gold coins!~ // 544
-@541 = ~Wait, I'll take it for 200,000 gold coins!~ // 545 546
-@542 = ~Wait, I'll take it for 300,000 gold coins!~ // 549 550
-@543 = ~Wait, I'll take it for 400,000 gold coins!~ // 559
+@540 = ~Wait, I'll take it for 50,000 gold coins!~ // 544
+@541 = ~Wait, I'll take it for 100,000 gold coins!~ // 545 546
+@542 = ~Wait, I'll take it for 150,000 gold coins!~ // 549 550
+@543 = ~Wait, I'll take it for 200,000 gold coins!~ // 559
 @544 = ~HA HA HA, are you kidding?! It cost me more than that in materials and enchantments alone! I don't have time for jokes like that, goodbye!~ FIN
 @545 = ~No, it was very expensive to make and develop, and as I said, I need it to protect myself. Goodbye.~ //FIN 
 @546 = ~No, it cost me a lot of money to make, and I couldn't sell it at that price...~ // 547 548
-@547 = ~I understand, I'm willing to pay 300,000 gold pieces. ~ // 549 550
-@548 = ~It looks so powerful... I'll buy it from you for 400,000 gold pieces.~ // 559
+@547 = ~I understand, I'm willing to pay 150,000 gold pieces. ~ // 549 550
+@548 = ~It looks so powerful... I'll buy it from you for 200,000 gold pieces.~ // 559
 @549 = ~It's a nice offer but... no, I really need it. Sorry, I really have to go. Goodbye and have a nice trip!~ //FIN
 @550 = ~You've convinced me... I'm willing to give it to you at this price, but only because it's you. It will protect you without fail, I guarantee it!~ // 560
 
 @551 = ~Oh, do you know anything about alchemy and the arcane?~ // 552
 @552 = ~A little bit, I spent my childhood in a huge library after all. I know that obsidian prevents lightning damage that could be caused to a metal spider. I also know that obsidian, a volcanic stone, is totally resistant to fire. What's more, the legs of this spider are unquestionably sharper than those of the other.~// 553
 @553 = ~You know more about this than I could have imagined when I first saw you. You're right, and what's more, its damage regeneration is better than that of the steel spider. Obsidian's pure crystallinity also gives it better vision, unaffected by any spells. Yes, a clear improvement on the other, I must say.~ // 554 555
-@554 = ~And I could do with a bodyguard like that, given the formidable adversaries in my path. I'll buy him from you for 300,000 gold coins.~ // 549 550
-@555 = ~Fantastic! But the downside of this machine is that it's going to be the envy of many. Other people more knowledgeable and less honest than me are likely to spot it very quickly, and there may already be some close by... I'll take her for 250,000 gold pieces right now. But don't procrastinate, I have to leave quickly.~ // 556 557
+@554 = ~And I could do with a bodyguard like that, given the formidable adversaries in my path. I'll buy him from you for 150,000 gold coins.~ // 549 550
+@555 = ~Fantastic! But the downside of this machine is that it's going to be the envy of many. Other people more knowledgeable and less honest than me are likely to spot it very quickly, and there may already be some close by... I'll take her for 130,000 gold pieces right now. But don't procrastinate, I have to leave quickly.~ // 556 557
 @556 = ~No, it's really too little, I'd rather take the risk, I have every confidence in this spider to defend me. Have a nice trip!~ //FIN
 @557 = ~So few... But maybe you're right, some of the people we meet here do seem so... worrying. And with that amount of money, I should be able to build another one. Okay, you've convinced me, the deal's done.~ // 558
 @558 = ~I am delighted!~ // 560
@@ -74,5 +74,5 @@
 @560 = ~*Gilbertus Agumanus then teaches you a new series of command words, which you carefully memorize. He then takes his leave, quickly disappearing around a corner.*~ // 533
 @561 = ~Well, too bad. Farewell.~
 @562 = ~Hello <LADYLORD>. Ho... Next!~
-@563 = ~Wait! I've come back with 80,000 gold coins. I want to buy your semi-mechanical spider.~
+@563 = ~Wait! I've come back with 40,000 gold coins. I want to buy your semi-mechanical spider.~
 @564 = ~I see. Farewell, then.~
