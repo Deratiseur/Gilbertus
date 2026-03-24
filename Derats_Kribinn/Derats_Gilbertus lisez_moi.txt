@@ -30,3 +30,5 @@ v4 :
 - Pour acheter kri'binn à un prix très bas dés le début il ne faut plus 17 de charisme mais 19.
 - Les araignées sont maintenant aussi/plus rapides que les personnages.
 - Après le mode "repos" les araignées n'ont plus un petit peu de points de vie mais 50% de leur points de vie maximum. (parce qu'attendre 6 rounds c'est déjà bien assez pénalisant.
+v5 :
+- Ajout de la traduction russe par scheele.

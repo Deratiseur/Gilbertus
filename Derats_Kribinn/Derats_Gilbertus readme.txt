@@ -31,3 +31,5 @@ v4:
 - To buy kri'binn at a very low price from the start, you no longer need 17 charisma but 19.
 - Spiders are now as fast as/faster than characters.
 - After “rest” mode, spiders no longer have a small amount of health points but 50% of their maximum hit points. (because waiting six rounds is already punishing enough.
+v5:
+-Added russian translation by scheele.
