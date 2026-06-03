@@ -5,14 +5,14 @@ IF ~GlobalTimerNotExpired("potion","LOCALS")~ THEN BEGIN Locked SAY @115
 END
 
 IF ~!GlobalTimerNotExpired("potion","LOCALS")~ THEN BEGIN welcome SAY @101
-	IF ~!HaveSpell(INQUIS_TRUE_SIGHT) Global("pxkribinn","GLOBAL",1)~ THEN  REPLY @113	DO
+	IF ~!HaveSpellRES("SPCL232") Global("pxkribinn","GLOBAL",1)~ THEN  REPLY @113	DO
 		~DisplayStringHead(Myself,@121)
 		MakeGlobal()
 		ChangeEnemyAlly(Myself,FAMILIAR)
 		AddFamiliar()
 		SetGlobal("pxkribinn","GLOBAL",2)
 		ReallyForceSpellRES("pxflvisi",Myself)~ EXIT
-	IF ~HaveSpell(INQUIS_TRUE_SIGHT) Global("pxkrotann","GLOBAL",1)~ THEN  REPLY @113	DO
+	IF ~HaveSpellRES("SPCL232") Global("pxkrotann","GLOBAL",1)~ THEN  REPLY @113	DO
 		~DisplayStringHead(Myself,@121)
 		MakeGlobal()
 		ChangeEnemyAlly(Myself,FAMILIAR)

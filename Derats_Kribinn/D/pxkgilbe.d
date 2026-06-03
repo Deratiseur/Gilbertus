@@ -114,7 +114,7 @@ END
 
 IF ~~ THEN deal1	SAY @532
 	IF ~~ THEN REPLY @533 DO ~SetGlobal("pxkribinn","GLOBAL",1) SetGlobal("pxkgilber","GLOBAL",1) EscapeArea()~ EXIT
-	IF ~GlobalLT("pxkgilber","GLOBAL",2)~ THEN REPLY @534 DO ~SetGlobal("pxkribinn","GLOBAL",1)~ GOTO krotann
+	IF ~GlobalLT("pxkgilber","GLOBAL",2) PartyGoldGT(129999)~ THEN REPLY @534 DO ~SetGlobal("pxkribinn","GLOBAL",1)~ GOTO krotann
 END
 
 IF ~~ THEN krotann	SAY @535
