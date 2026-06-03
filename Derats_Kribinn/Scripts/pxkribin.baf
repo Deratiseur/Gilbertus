@@ -22,6 +22,15 @@ END
 
 IF
   ActionListEmpty()
+  !See(Nearestenemyof(Myself))
+  Global("pxkribinn","GLOBAL",2)
+THEN
+  RESPONSE #100
+    MoveToObject(Player1)
+END
+
+IF
+  ActionListEmpty()
   AttackedBy([0],DEFAULT)
 THEN
   RESPONSE #100
