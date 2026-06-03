@@ -30,6 +30,10 @@ v4:
 - Spiders' price halved.
 - To buy kri'binn at a very low price from the start, you no longer need 17 charisma but 19.
 - Spiders are now as fast as/faster than characters.
-- After “rest” mode, spiders no longer have a small amount of health points but 50% of their maximum hit points. (because waiting six rounds is already punishing enough.
+- After “rest” mode, spiders no longer have a small amount of health points but 50% of their maximum hit points. (because waiting six rounds is already punishing enough.)
 v5:
 -Added russian translation by scheele.
+v6:
+- A condition was missing from the dialogue for acquiring Kro'Tann, which could have caused a NO_VALID_LINK error.
+- Improved the script for the spiders so that they follow the player when they have nothing to do.
+- Added compatibility (minor dialogue bugs) with PSTEE.

@@ -32,3 +32,7 @@ v4 :
 - Après le mode "repos" les araignées n'ont plus un petit peu de points de vie mais 50% de leur points de vie maximum. (parce qu'attendre 6 rounds c'est déjà bien assez pénalisant.
 v5 :
 - Ajout de la traduction russe par scheele.
+v6 :
+- Il manquait une condition dans le dialogue pour l’acquisition de Kro'Tann qui pouvait amener à un NO_VALID_LINK.
+- Amélioration du script des araignées pour qu'elles suivent le pj quand elles n'ont rien à faire.
+- Ajout de la compatibilité (légers bugs de dialogues) avec PSTEE.
