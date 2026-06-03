@@ -76,7 +76,7 @@ END
 ACTION_IF GAME_IS ~PSTEE~ THEN BEGIN
 	COPY_EXISTING	~bd188.vvc~				~override/pxkribiv.vvc~	WRITE_ASCII 0x8 ~pxkribi1~ #8	WRITE_BYTE 0x20 (THIS | 1)
 	COPY_EXISTING	~pxkribiv.vvc~			~override/pxkrib2v.vvc~	WRITE_ASCII 0x8 ~pxkribi2~ #8
-	COPY_EXISTING	~pxkgilbe.cre~						~override~	WRITE_ASCII 0x8 ~pxkribi2~ #8	WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~Merchant~))
+	COPY_EXISTING	~pxkgilbe.cre~						~override~	WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~Merchant~))
 	COPY_EXISTING	~pxkribin.cre~						~override~
 					~pxkrotan.cre~						~override~	LPF ADD_CRE_EFFECT INT_VAR opcode = 176 parameter1 = 2 timing = 9 target = 1 END
 	COPY ~Derats_KriBinn/Divers/pxkribi1.spl~			 ~override~
