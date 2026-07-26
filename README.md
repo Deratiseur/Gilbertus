@@ -5,18 +5,38 @@
 ![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=BG2EE%20%7C%20EET%20%7C%20IWDEE%20%7C%20PSTEE%20%7C&20&color=dodgerblue)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Deratiseur/Gilbertus/total)
 
-**Autor** : **Deratiseur**
+**Author** : **Deratiseur**
 
 [Link to original Mod Forum](https://www.baldursgateworld.fr/viewtopic.php?t=34676)
 
-## Description:
--------------
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Sur la Promenade de Waukine, à Kuldahar ou dans le Quartier marchand (PSTEE), Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or.
+## English
+
+### Description
+
+On the Waukeen's Promenade, in Kuldahar, or in the Lower Ward (PSTEE), Gilbertus sells a semi-mechanical spider that will follow you as a 7th companion. Expect to spend a lot of gold.
+
+The spider is almost invulnerable and can be upgraded with potions.
+
+If you have a truly huge amount of gold when you talk to the vendor, you may be able to buy "more."
+
+</td>
+
+<td width="50%" valign="top">
+
+## Français
+
+### Description
+
+Sur la Promenade de Waukyne, à Kuldahar ou dans le Quartier marchand (PSTEE), Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièces d'or.
+
 L'araignée est quasi-invulnérable et peut être améliorée avec des potions.
-Si quand vous parlez au vendeur vous avez prévu vraiment beaucoup de pièce d'or, vous pourrez peut être acheter "plus".
-__________________
 
-On the Waukeen's promenade, at Kuldahar on at the Lower Ward (PSTEE), Gilbertus sells a half-mechanical spider that will follow you like a 7th companion. Expect a lot of gold coins.
-The spider is virtually invulnerable and can be upgraded with potions.
-If you have a really large amount of gold pieces when you talk to the vendor, you may be able to buy “more.”
+Si, quand vous parlez au vendeur, vous avez vraiment énormément de pièces d'or, vous pourrez peut-être acheter "plus".
+
+</td>
+</tr>
+</table>
