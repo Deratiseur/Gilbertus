@@ -24,6 +24,7 @@ END
 IF
   ActionListEmpty()
   !See(Nearestenemyof(Myself))
+  HotKey(K)
   Global("pxkrotann","GLOBAL",2)
 THEN
   RESPONSE #100

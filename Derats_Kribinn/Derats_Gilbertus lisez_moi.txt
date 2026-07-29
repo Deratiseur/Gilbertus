@@ -36,3 +36,5 @@ v6 :
 - Il manquait une condition dans le dialogue pour l’acquisition de Kro'Tann qui pouvait amener à un NO_VALID_LINK.
 - Amélioration du script des araignées pour qu'elles suivent le pj quand elles n'ont rien à faire.
 - Ajout de la compatibilité (légers bugs de dialogues) avec PSTEE.
+V7 :
+- L'araignée suit maintenant le player 1 uniquement si le joueur appuie sur K.

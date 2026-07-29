@@ -37,3 +37,4 @@ v6:
 - A condition was missing from the dialogue for acquiring Kro'Tann, which could have caused a NO_VALID_LINK error.
 - Improved the script for the spiders so that they follow the player when they have nothing to do.
 - Added compatibility (minor dialogue bugs) with PSTEE.
+V7: The spider(s) now follows Player 1 only if the player presses K.

@@ -1,6 +1,6 @@
 BACKUP ~Derats_KriBinn/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~6~
+VERSION ~7~
 
 AUTO_TRA ~Derats_KriBinn/Languages/%s~
 
@@ -32,7 +32,6 @@ ACTION_IF GAME_IS ~PSTEE~ THEN BEGIN
 EXTEND_TOP ~AR0500.BCS~	~Derats_KriBinn/Divers/pxk0500.baf~
 COPY_EXISTING	~IDAG1D10.itm~				~override/pxkroban.itm~	WRITE_BYTE 0x60 1	WRITE_ASCII 0x3a ~~ #8	WRITE_ASCII 0x76 ~~ #8
 COPY ~Derats_KriBinn/Divers/spcl232.spl~				 ~override~	SAY NAME2 @4
-APPEND ~Spell.ids~ ~4232 INQUIS_TRUE_SIGHT~
 END
 
 INCLUDE ~Derats_KriBinn/Divers/Codes.tpa~ 

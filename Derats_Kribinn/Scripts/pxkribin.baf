@@ -23,6 +23,7 @@ END
 IF
   ActionListEmpty()
   !See(Nearestenemyof(Myself))
+  HotKey(K)
   Global("pxkribinn","GLOBAL",2)
 THEN
   RESPONSE #100
