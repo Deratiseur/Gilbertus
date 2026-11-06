@@ -1,0 +1,96 @@
+@501 = ~Greetings, <LADYLORD>. Allow me to introduce myself: Gilbertus Agumanus, scholar and tinkerer extraordinaire! And I have a UNIQUE offer for you. See the magnificent semi-mechanical spider beside me? *He gestures towards the steel spider.* She would make a splendid addition to your party! She can withstand almost anything, is virtually invulnerable, will follow you wherever you go, and will tear your enemies to shreds without fail.~
+@502 = ~Okay, how much is it?~ // 508
+@503 = ~Semi-mechanical, no less… And where does this… contraption get its extraordinary powers?~ // 526
+@504 = ~No thanks, I don't need a mechanical watchdog.~ // EXIT 
+
+@505 = ~This contraption reminds me of something my great-uncle Hildebrand Jansen once built. While travelling through the forests of Tethyr, he stumbled upon a giant anthill. He only just escaped, thanks to his skill at climbing trees. When he got home, though, he decided to build a giant mechanical ant, rather like this gentleman's spider, only better, of course. Trouble began when he built several to serve as his escort and they started attacking one another. He was on the verge of solving the problem and had already received a generous offer from the captain of the constable's guard, but then he was unjustly implicated in a giant-turnip smuggling ring and decided to flee the region. After that, he changed course entirely and ended up in Calimport, but, er… All right, all right, I'll tell you the rest another time.~
+
+@506 = ~I don't trust these sorts of 'machines', <CHARNAME>. They are so far removed from the teachings of Nature that I can't see what good one could possibly do us. But do as you wish. I'll respect your decision.~
+
+@507 = ~Bah. The true giant spiders of the Underdark are surely far more fearsome than this… imitation. But if you're foolish enough to throw your gold away, go ahead and buy this yingil's spider.~
+
+@508 = ~20,000 gold pieces. Now, don't let the price put you off! I assure you she's worth every coin. Did I mention that I've made her susceptible to magic, so your spells can affect her? I've even fitted her with a potion compartment! Pour in any potion you like, and she'll absorb its magical properties!~ // 509 510 511 512
+@509 = ~I see. Okay, I'll take it.~ // DEAL 532
+@510 = ~That's quite a sum. I'm interested, but I'd need a little discount. How about 15,000?~ // 513 514
+@511 = ~Not bad, but it's too expensive for what it is. I'll give you 10,000, and not a coin more.~ // 517 518 
+@512 = ~20,000?! For an amateur's tinkering project? No, thank you. Go find yourself some gullible fool. There are plenty around here.~//EXIT
+
+@513 = ~Well… All right, then. But you're getting quite a bargain!~ // DEAL 532
+@514 = ~Oh, no, <LADYLORD>! At 20,000, this magnificent creation is already a bargain. You won't regret it!~ // 515 516
+@515 = ~Well... All right, then.~ // DEAL
+@516 = ~Well… I don't think we can come to an agreement. Find yourself another buyer.~ // EXIT
+
+@517 = ~Well… All right, then. I don't even know why I'm letting her go so cheaply. You're getting the bargain of a lifetime, I assure you!~ // DEAL 532
+@518 = ~Oh, no, <LADYLORD>! At 20,000, this magnificent creation is already a bargain. You won't regret it!~ // 519 520 521 522
+@519 = ~Well... All right, then.~ // DEAL 532
+@520 = ~All right, I'm interested, but you could make a little effort! What do you say to 17,500?~ // 523 524
+@521 = ~Pff… I'll go as high as 12,500, but no further. For all I know, this thing doesn't even work…~ // 525
+@522 = ~I'm sorry, but I can't spend that much on this contraption. Goodbye.~ // EXIT
+@523 = ~Well... All right, then. I guess it's still a good deal.~ // DEAL 532
+@524 =  ~Oh, no, <LADYLORD>! I'm sure I'll find someone who appreciates an exceptional offer when they see one. Goodbye.~ //EXIT
+@525 = ~Why are we still talking if you have so little faith in my machine? I'm sure I can find a genuinely interested buyer somewhere in this city. Goodbye.~ //EXIT
+
+
+@526 = ~You see, she isn't entirely mechanical. A purely mechanical construct would be resistant to magic, but here's the clever part: I've made this one susceptible to magic, so she can benefit from spells cast upon her. And she can even make use of potions, thanks to the ingenious little compartment I've fitted her with! So, for the modest sum of 20,000 gold pieces, will you take her?~ // 509 527 528 529
+@527 = ~It certainly looks impressive… but it's a little beyond my means. How about a discount? I'm willing to pay 15,000 gold pieces.~ // 513 514
+@528 = ~Hmm… Her legs don't look any sharper than a decent sword, and I doubt she'd survive the battles I'll eventually have to fight against my fearsome enemies. I'd say she's worth 8,500 gold pieces. That's my offer.~ // 530 531 
+@529 = ~20,000 gold pieces? Modest? You have a strange idea of what 'modest' means. No, thank you.~ // EXIT
+@530 = ~Well… All right, then. I don't even know why I'm letting her go so cheaply. You're getting the bargain of a lifetime, I assure you!~ // DEAL
+@531 = ~What?! That's almost an insult! I won't even consider it. I'll find a buyer who appreciates my creation. Goodbye.~ // EXIT
+
+//DEAL
+@532 = ~Very well. Listen carefully to these command words and repeat them in front of the spider. She'll then place herself at your service. *He recites a string of unrelated but easy-to-remember words.*~ // 533 534
+@533 = ~Okay, thanks.~ // 561 FIN
+@534 = ~By the way, tell me, what's that other black spider behind you?~ // 535
+@535 = ~Ah, that one? Oh, er… she's my bodyguard, in a manner of speaking. One can't be too careful. I've heard some of the neighbourhoods around here are rather unsavoury. And then there are the thieves' guilds, if you know what I mean…~ // 536 537 538
+@536 = ~You're right, this town isn't safe. Goodbye.~ // EXIT
+@537 = ~But that black spider looks much better made than the other one. You wouldn't happen to be selling her, would you?~ // 539 
+@538 = ~She looks as though she's made of obsidian. I've heard obsidian takes magical enchantments particularly well. Tell me more…~ // 551
+
+@539 = ~Ah, er… no. It's just that I built the steel one first, and I do need to keep one to protect myself. Now, if you'll excuse me, I really must be going.~ // 540 541 542 543
+@540 = ~Wait, I'll take it for 25,000 gold coins!~ // 544
+@541 = ~Wait, I'll take it for 50,000 gold coins!~ // 545 546
+@542 = ~Wait, I'll take it for 75,000 gold coins!~ // 549 550
+@543 = ~Wait, I'll take it for 100,000 gold coins!~ // 559
+@544 = ~HA! HA! HA! You must be joking! The materials and enchantments alone cost me more than that! I've no time for such nonsense. Goodbye!~
+@545 = ~No. She cost me a fortune to build and perfect, and as I said, I need her for my own protection. Goodbye.~ //FIN 
+@546 = ~No, she cost me a great deal to make. I couldn't possibly sell her for that price…~ // 547 548
+@547 = ~I understand. I'm willing to pay 75,000 gold pieces.~ // 549 550
+@548 = ~It looks so powerful... I'll buy it from you for 100,000 gold pieces.~ // 559
+@549 = ~It's a generous offer, but… no. I really do need her. Sorry, I must be going. Goodbye, and safe travels!~ //FIN
+@550 = ~You've convinced me… I'll let you have her for that price, but only because it's you. She'll protect you without fail, I guarantee it!~ // 560
+
+@551 = ~Oh? You know something of alchemy and the arcane arts?~ // 552
+@552 = ~A little. I did spend my childhood in an enormous library, after all. I know obsidian protects against the damage a lightning strike could cause to a metal spider—if you'll pardon the expression. I also know that obsidian, being volcanic rock, is completely resistant to fire. And this spider's legs are clearly sharper than the other one's.~// 553
+@553 = ~You know far more than I would have guessed from looking at you! You're quite right. What's more, she repairs damage more quickly than the steel spider. The pure crystalline structure of obsidian also gives her superior vision, unaffected by spells. Yes, a considerable improvement over the other one, I must say.~ // 554 555
+@554 = ~And I could certainly use a bodyguard like that, given the fearsome enemies standing in my way. I'll give you 75,000 gold pieces for her.~ // 549 550
+@555 = ~Wonderful! But there's one drawback to a machine like this: she's bound to attract envy. Others who know more about such things, and are less honest than I am, may spot her very quickly. There might even be some nearby already… I'll give you 65,000 gold pieces for her, here and now. But decide quickly; I need to be on my way.~ // 556 557
+@556 = ~No, that's far too little. I'd rather take my chances. I have every confidence in this spider's ability to protect me. Safe travels!~ //FIN
+@557 = ~So little… But perhaps you're right. Some of the people around here do look rather… unsettling. And with that much gold, I should be able to build another one. All right, you've convinced me. It's a deal!~ // 558
+@558 = ~I'm delighted!~ // 560
+
+//DEAL2 REUSSI
+@559 = ~At that price… I can hardly refuse! It's enough to hire an entire company of mercenaries for a year and build another obsidian spider. It's a deal!~ // 560 
+@560 = ~*Gilbertus Agumanus teaches you another set of command words, which you carefully memorise. He then takes his leave and quickly disappears around a street corner.*~ // 533
+@561 = ~Ah, too bad. Farewell.~
+@562 = ~Hello, <LADYLORD>. Oh… Next!~
+@563 = ~Wait! I've come back with 20,000 gold pieces. I want to buy your semi-mechanical spider.~
+@564 = ~I see. Farewell, then.~
+@565 = ~A little. I must have studied such things in another life… The knowledge is coming back to me, but I can't remember ever learning it.~ //553
+@566 = ~Obsidian… The word stirs a long-buried memory.~
+@567 = ~A black, glassy expanse stretches to the horizon. You hear a crack, then another. What you thought was a rock begins to rise. You know what to do. You run.~
+@568 = ~Obsidian… Yes, I know some of its properties. I wish I could forget how I learned about them.~ //553
+@569 = ~A little. One evening, an adventurer passing through the inn went on and on about his experiences with lava and obsidian. I know it's as hard as stone and impervious to fire.~
+
+//Minsc
+@570 = ~A fighting spider! Eight legs to kick Evil's backside! But Boo demands a guarantee: hamsters must never be on her menu!~
+//Edwin
+@571 = ~"Virtually invulnerable"? What admirably careful wording. I suppose that if she is destroyed, you will explain to your customer that her guarantee was only virtual. (This charlatan would have made an excellent merchant in Thay.)~
+//Korgan
+@572 = ~If she's as tough as ye say, why're ye standin' around lookin' fer a buyer? Send her off to clear out a troll lair and keep all the loot. That's what I'd do.~
+//Valygar
+@573 = ~Before you tell us how to order her to kill, tell us how to stop her. I'd rather know both command words.~
+//Aerie
+@574 = ~She really can follow us everywhere? Even when we're sleeping? I… I think I'd rather she stood guard a good distance from my bedroll.~
+//Haer'Dalis
+@575 = ~Your creation has eight legs, yet I see no ears upon her. At last, a companion who might endure my rehearsals without complaint.~

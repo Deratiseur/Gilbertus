@@ -1,0 +1,16 @@
+IF
+	HotKey(K)
+	Global("pxkribinn","GLOBAL",2)
+THEN
+	RESPONSE #100
+		ActionOverride("PXKRIBIN",MoveToObject(Player1))
+		Continue()
+END
+
+IF
+	HotKey(K)
+	Global("pxkrotann","GLOBAL",2)
+THEN
+	RESPONSE #100
+		ActionOverride("PXKROBAN",MoveToObject(Player1))
+END

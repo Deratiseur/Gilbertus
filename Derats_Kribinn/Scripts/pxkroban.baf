@@ -1,0 +1,30 @@
+IF
+	Global("pxkgilber","GLOBAL",1)
+THEN
+	RESPONSE #100
+	EscapeArea()
+	SetGlobal("pxkgilber","GLOBAL",2)
+END
+
+IF
+	Heard([ANYONE],111)
+THEN
+	RESPONSE #100
+		MoveToObject(NearestEnemyOf(Myself))
+END
+
+IF
+  ActionListEmpty()
+  See(Nearestenemyof(Myself))
+THEN
+  RESPONSE #100
+    AttackReevaluate(Nearestenemyof(Myself),30)
+END
+
+IF
+  ActionListEmpty()
+  AttackedBy([0],DEFAULT)
+THEN
+  RESPONSE #100
+    Attack(Lastattackerof(Myself))
+END

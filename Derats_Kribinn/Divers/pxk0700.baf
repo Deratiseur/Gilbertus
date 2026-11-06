@@ -1,0 +1,10 @@
+IF
+	Global("pxgilberus","GLOBAL",0)
+	AreaCheck("AR0700")
+THEN
+	RESPONSE #100
+		SetGlobal("pxgilberus","GLOBAL",1)
+		CreateCreature("pxkgilbe",[2201.3090],NNW)
+		CreateCreature("pxkribin",[2128.3114],NNW)
+		CreateCreature("pxkrotan",[2262.3137],NNW)
+END
