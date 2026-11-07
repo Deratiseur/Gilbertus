@@ -7,7 +7,11 @@
 
 **Author** : **Deratiseur**
 
-[Link to original Mod Forum](https://www.baldursgateworld.fr/viewtopic.php?t=34676)
+[Lien vers le forum français](https://www.baldursgateworld.fr/viewtopic.php?t=34676)  
+[Link to the beamdog forum](https://forums.beamdog.com/discussion/89445/mod-crossclass-powerkits/p1)  
+  
+[Lisez_moi complet](https://htmlpreview.github.io/?https://github.com/Deratiseur/Girbertus/blob/main/Derats_Kribinn/Documents/Readme_French.html)  
+[Full Readme](https://htmlpreview.github.io/?https://github.com/Deratiseur/Girbertus/blob/main/Derats_Kribinn/Documents/Readme_English.html)   
 
 <table>
 <tr>
